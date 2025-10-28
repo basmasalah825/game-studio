@@ -1,0 +1,3 @@
+/* Minimal styles to make layout presentable */
+:root { --bg:#f8fafc; --card:#fff; --muted:#6b7280; }
+body { margin:0; font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background:var(--bg); color:#111827; }
